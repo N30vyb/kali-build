@@ -34,6 +34,9 @@
       - seclists
       - exiftool
       - bloodhound
+      - xfreerdp
+      - hydra
+      - krb5-user
       - xsltproc
       - wine64
       - naabu

@@ -18,3 +18,6 @@
     - { name: 'DonPAPI', url: 'git+https://github.com/login-securite/DonPAPI.git'}
     - { name: 'dploot', url: 'git+https://github.com/zblurx/dploot.git'}
     - { name: 'bypass-url-parser', url: 'git+https://github.com/laluka/bypass-url-parser.git'}
+    - { name: 'knowsmore', url: 'git+https://github.com/helviojunior/knowsmore.git'}
+    - { name: 'Graphcat', url: 'git+https://github.com/Orange-Cyberdefense/graphcat.git'}
+    

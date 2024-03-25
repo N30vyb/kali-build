@@ -96,6 +96,13 @@
     - { repo: "https://github.com/v1s1t0r1sh3r3/airgeddon", location: "/opt/airgeddon"}
     - { repo: "https://github.com/ZerBea/hcxtools", location: "/opt/hcxtools"}
     - { repo: "https://github.com/GemDem/CharlesCrawler", location: "/opt/CharlesCrawler"}
+    - { repo: "https://github.com/mkellerman/Invoke-CommandAs.git", location: "/opt/Invoke-CommandAs"}
+    - { repo: "https://github.com/Mr-Un1k0d3r/SCShell.git", location: "/opt/SCShell"}
+    - { repo: "https://github.com/SnaffCon/Snaffler.git", location: "/opt/Snaffler"}
+    - { repo: "https://github.com/michenriksen/aquatone.git", location: "/opt/aquatone"}
+    - { repo: "https://github.com/s0lst1c3/eaphammer.git", location: "/opt/eaphammer"}
+    - { repo: "https://github.com/atenreiro/opensquat.git", location: "/opt/opensquat"}
+    - { repo: "https://gist.github.com/ef49e5fb6c3479dd6a24eb90b53f9baa.git", location: "/opt/smtpAudit"}
 
 # install Vulscan into nmap: usage *nmap -sV --script=vulscan/vulscan.nse TARGET*
 # - name: "Configuring vulscan into nmap"
